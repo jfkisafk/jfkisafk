@@ -5,16 +5,17 @@
 
 <a href="https://www.linkedin.com/in/stelo" target="_blank">
 	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="./icons/light/linkedin.svg" width="22" align="left">
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/linkedin.svg" width="22" align="left">
 	  <img src="./icons/light/linkedin.svg" width="22" align="left">
 	</picture>
 </a>
 <a href="https://www.github.com/jfkisafk" target="_blank">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/github.svg" width="22" align="left">
-	  <img src="icons/dark/github.svg" width="22" align="left">
+	  <img src="icons/light/github.svg" width="22" align="left">
 	</picture>
 </a>
+<br />
 
 ## My stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfkisafk&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=10&hide_title=true&hide_border=true&role=OWNER,COLLABORATOR)](https://github.com/jfkisafk)

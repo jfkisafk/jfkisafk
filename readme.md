@@ -15,6 +15,12 @@
 </a>
 <br />
 
+## Contributions
+
+<a title="Install alpaca-trading Raycast Extension" href="https://www.raycast.com/stelo/alpaca-trading"><img src="https://www.raycast.com/stelo/alpaca-trading/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+<a title="Install aws Raycast Extension" href="https://www.raycast.com/Falcon/aws"><img src="https://www.raycast.com/Falcon/aws/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+<a title="Install linear Raycast Extension" href="https://www.raycast.com/linear/linear"><img src="https://www.raycast.com/linear/linear/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+
 ## My stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfkisafk&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=10&hide_title=true&hide_border=true&role=OWNER,COLLABORATOR)](https://github.com/jfkisafk)
 [![](https://github-readme-stats.vercel.app/api/?username=jfkisafk&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=true&rank_icon=github&line_height=28&hide_border=true&role=OWNER,COLLABORATOR&hide=stars,contribs)](https://github.com/jfkisafk)

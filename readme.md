@@ -24,6 +24,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Alpaca Trading](https://www.raycast.com/stelo/alpaca-trading):** Interact with your Alpaca trading account
 * **[Amazon AWS](https://www.raycast.com/Falcon/aws):** The best way to interact with your AWS resources
 * **[Linear](https://www.raycast.com/linear/linear):** Create, search and modify your issues from anywhere on your Mac.
+* **[GitHub](https://www.raycast.com/raycast/github):** Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications.
 
 ## My stats
 [![](https://gitstats.stelo.app/api/top-langs/?username=jfkisafk&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=10&hide_title=true&hide_border=true&role=OWNER,COLLABORATOR)](https://github.com/jfkisafk)

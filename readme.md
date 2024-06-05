@@ -1,5 +1,5 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=3239FB&textBg=false&section=header)](https://github.com/jfkisafk)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=25&pause=1000&color=FF8D93&random=false&width=435&lines=Bonjour!+%F0%9F%91%8B;Je+m'appelle+Stelo.)](https://github.com/jfkisafk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=25&pause=1000&color=4169E1&random=false&width=435&lines=Bonjour!+%F0%9F%91%8B;Je+m'appelle+Stelo.)](https://github.com/jfkisafk)
 
 Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. You can connect with me on my socials:
 

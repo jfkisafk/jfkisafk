@@ -26,10 +26,11 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Linear](https://www.raycast.com/linear/linear):** Create, search and modify your issues from anywhere on your Mac.
 * **[GitHub](https://www.raycast.com/raycast/github):** Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications.
 
-### <img src="./icons/aws.png" alt="raycast" width="20" height="20"/> AWS
+### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 
 * **[Smithy](https://github.com/smithy-lang/smithy):** IDL for constructing open api(s).
 * **[CDK](https://aws.amazon.com/cdk/):** Define your cloud application resources using familiar programming languages
+* **[Rust Lambda Runtime](https://github.com/awslabs/aws-lambda-rust-runtime):** This package makes it easy to run AWS Lambda Functions written in Rust.
 
 ### Others
 * **[Dashlane CLI](https://github.com/Dashlane/dashlane-cli):** CLI to interact with Dashlane

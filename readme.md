@@ -15,6 +15,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 	  <img src="icons/light/github.svg" width="22" align="left">
 	</picture>
 </a>
+<a href="https://www.raycast.com/stelo"><img src="./icons/raycast.png" alt="raycast" width="22" /></a>
 <br />
 
 ## Contributions

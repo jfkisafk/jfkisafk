@@ -26,6 +26,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Amazon AWS](https://www.raycast.com/Falcon/aws):** The best way to interact with your AWS resources
 * **[Linear](https://www.raycast.com/linear/linear):** Create, search and modify your issues from anywhere on your Mac.
 * **[GitHub](https://www.raycast.com/raycast/github):** Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications.
+* **[Raycast Wallpaper](https://www.raycast.com/koinzhang/raycast-wallpaper):** Get and set Raycast official wallpapers.
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 
@@ -36,6 +37,3 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 ### Others
 * **[Dashlane CLI](https://github.com/Dashlane/dashlane-cli):** CLI to interact with Dashlane
 
-## My stats
-[![](https://gitstats.stelo.app/api/top-langs/?username=jfkisafk&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=10&hide_title=true&hide_border=true&role=OWNER,COLLABORATOR)](https://github.com/jfkisafk)
-[![](https://gitstats.stelo.app/api/?username=jfkisafk&theme=tokyonight&bg_color=00000000&show_icons=true&count_private=true&hide_title=true&rank_icon=github&line_height=28&hide_border=true&role=OWNER,COLLABORATOR&hide=stars,contribs)](https://github.com/jfkisafk)

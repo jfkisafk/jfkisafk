@@ -26,6 +26,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Amazon AWS](https://www.raycast.com/Falcon/aws):** The best way to interact with your AWS resources
 * **[Linear](https://www.raycast.com/linear/linear):** Create, search and modify your issues from anywhere on your Mac.
 * **[GitHub](https://www.raycast.com/raycast/github):** Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications.
+* **[Slack]([https://www.raycast.com/koinzhang/raycast-wallpaper](https://www.raycast.com/mommertf/slack)):** Search for chats, see unread messages, snooze notifications, and set your presence status.
 * **[Raycast Wallpaper](https://www.raycast.com/koinzhang/raycast-wallpaper):** Get and set Raycast official wallpapers.
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS

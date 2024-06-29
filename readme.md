@@ -28,6 +28,8 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[GitHub](https://www.raycast.com/raycast/github):** Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications.
 * **[Slack](https://www.raycast.com/mommertf/slack):** Search for chats, see unread messages, snooze notifications, and set your presence status.
 * **[Raycast Wallpaper](https://www.raycast.com/koinzhang/raycast-wallpaper):** Get and set Raycast official wallpapers.
+* **[Search MDN](https://www.raycast.com/krzysztofzuraw/search-mdn):** Search MDN Web Docs
+* **[Dub Link Shortener](https://www.raycast.com/quuu/dub-link-shortener):** This extension allows you to shorten and retrieve your shortened links.
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 

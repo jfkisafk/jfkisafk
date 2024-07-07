@@ -32,6 +32,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Dub Link Shortener](https://www.raycast.com/quuu/dub-link-shortener):** This extension allows you to shorten and retrieve your shortened links.
 * **[Bear Notes](https://www.raycast.com/hmarr/bear):** Control Bear with Raycast.
 * **[Todoist](https://www.raycast.com/doist/todoist):** Check your Todoist tasks and quickly create new ones.
+* **[Cal.com](https://www.raycast.com/cal/cal-com-share-meeting-links):** Quickly share your Cal.com meeting links.
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 

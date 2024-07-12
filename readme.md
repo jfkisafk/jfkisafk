@@ -1,5 +1,5 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=3239FB&textBg=false&section=header)](https://github.com/jfkisafk)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=25&pause=1000&color=4169E1&random=false&width=435&lines=Bonjour!+%F0%9F%91%8B;Je+m'appelle+Stelo.)](https://github.com/jfkisafk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=25&pause=1000&color=4169E1&random=false&width=435&lines=Hello!+%F0%9F%91%8B;I'm+Stelo.)](https://github.com/jfkisafk)
 
 Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. You can connect with me on my socials:
 
@@ -15,7 +15,6 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 	  <img src="icons/light/github.svg" width="22" align="left">
 	</picture>
 </a>
-<a href="https://www.raycast.com/stelo"><img src="./icons/raycast.png" alt="raycast" width="22" /></a>
 <br />
 
 ## Contributions
@@ -33,6 +32,8 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Bear Notes](https://www.raycast.com/hmarr/bear):** Control Bear with Raycast.
 * **[Todoist](https://www.raycast.com/doist/todoist):** Check your Todoist tasks and quickly create new ones.
 * **[Cal.com](https://www.raycast.com/cal/cal-com-share-meeting-links):** Quickly share your Cal.com meeting links.
+* **[Superwhisperer](https://www.raycast.com/nchudleigh/superwhisper):** Start a recording, change Modes and open settings.
+* **[Github Gist](https://www.raycast.com/koinzhang/github-gist):** Create, search and display GitHub gists.
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 

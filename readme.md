@@ -34,6 +34,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Cal.com](https://www.raycast.com/cal/cal-com-share-meeting-links):** Quickly share your Cal.com meeting links.
 * **[Superwhisperer](https://www.raycast.com/nchudleigh/superwhisper):** Start a recording, change Modes and open settings.
 * **[Github Gist](https://www.raycast.com/koinzhang/github-gist):** Create, search and display GitHub gists.
+* **[Lorem Ipsum](https://www.raycast.com/AntonNiklasson/lorem-ipsum):** Generate placeholder content.
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 

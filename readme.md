@@ -22,6 +22,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 ### <img src="./icons/raycast.png" alt="raycast" width="20" height="20"/> Raycast Extensions
 
 * **[Alpaca Trading](https://www.raycast.com/stelo/alpaca-trading):** Interact with your Alpaca trading account
+* **[Disk Utility](https://www.raycast.com/stelo/diskutil):** Create, list and delete Apple File System (APFS) disk volumes
 * **[Amazon AWS](https://www.raycast.com/Falcon/aws):** The best way to interact with your AWS resources
 * **[Linear](https://www.raycast.com/linear/linear):** Create, search and modify your issues from anywhere on your Mac.
 * **[GitHub](https://www.raycast.com/raycast/github):** Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications.
@@ -35,6 +36,8 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Superwhisperer](https://www.raycast.com/nchudleigh/superwhisper):** Start a recording, change Modes and open settings.
 * **[Github Gist](https://www.raycast.com/koinzhang/github-gist):** Create, search and display GitHub gists.
 * **[Lorem Ipsum](https://www.raycast.com/AntonNiklasson/lorem-ipsum):** Generate placeholder content.
+* **[GitLab](https://www.raycast.com/tonka3000/gitlab):** Create, search and modify issues, manage merge requests, projects and more.
+* **[Things](https://www.raycast.com/loris/things):** Search and manage your Things to-dos from Raycast
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 

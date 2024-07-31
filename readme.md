@@ -3,13 +3,13 @@
 
 Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. You can connect with me on my socials:
 
-<a href="https://www.linkedin.com/in/stelo" target="_blank">
+<a href="https://link.stelo.me/in" target="_blank">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/linkedin.svg" width="22" align="left">
 	  <img src="./icons/light/linkedin.svg" width="22" align="left">
 	</picture>
 </a>
-<a href="https://www.github.com/jfkisafk" target="_blank">
+<a href="https://link.stelo.me/git" target="_blank">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/github.svg" width="22" align="left">
 	  <img src="icons/light/github.svg" width="22" align="left">
@@ -38,7 +38,7 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Lorem Ipsum](https://www.raycast.com/AntonNiklasson/lorem-ipsum):** Generate placeholder content.
 * **[GitLab](https://www.raycast.com/tonka3000/gitlab):** Create, search and modify issues, manage merge requests, projects and more.
 * **[Things](https://www.raycast.com/loris/things):** Search and manage your Things to-dos from Raycast
-* **[Brew](https://www.raycast.com/nhojb/brew):** Search and install Homebrew formulae
+* **[Homebrew](https://www.raycast.com/nhojb/brew):** Search and install Homebrew formulae
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 

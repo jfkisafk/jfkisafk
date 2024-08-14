@@ -37,8 +37,9 @@ Hi, I’m Stelo, a full-stack Software Engineer based in Seattle, Washington. Yo
 * **[Github Gist](https://www.raycast.com/koinzhang/github-gist):** Create, search and display GitHub gists.
 * **[Lorem Ipsum](https://www.raycast.com/AntonNiklasson/lorem-ipsum):** Generate placeholder content.
 * **[GitLab](https://www.raycast.com/tonka3000/gitlab):** Create, search and modify issues, manage merge requests, projects and more.
-* **[Things](https://www.raycast.com/loris/things):** Search and manage your Things to-dos from Raycast
-* **[Homebrew](https://www.raycast.com/nhojb/brew):** Search and install Homebrew formulae
+* **[Things](https://www.raycast.com/loris/things):** Search and manage your Things to-dos from Raycast.
+* **[Homebrew](https://www.raycast.com/nhojb/brew):** Search and install Homebrew formulae.
+* **[Base64](https://www.raycast.com/DanielSinclair/base64):** Quickly encode or decode base64 from the clipboard.
 
 ### <img src="./icons/aws.png" alt="raycast" width="20" height="15"/> AWS
 
